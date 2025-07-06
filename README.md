@@ -1,1 +1,1 @@
-Trigger jenkins build
+Trigger jenkins polling
